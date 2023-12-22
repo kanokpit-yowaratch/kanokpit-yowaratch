@@ -29,6 +29,8 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kanokpit-yowaratch&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<a href="http://www.github.com/kanokpit-yowaratch"><img src="https://github-readme-stats.vercel.app/api?username=kanokpit-yowaratch&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="prameKittikorn's GitHub stats" /></a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanokpit-yowaratch)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
