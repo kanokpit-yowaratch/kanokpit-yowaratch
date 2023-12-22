@@ -1,14 +1,4 @@
 # Hi, I'm Kanokpit Yowaratch <img src="https://komarev.com/ghpvc/?username=kanokpit-yowaratch&style=flat-square&color=blue" alt="Profile counter" />
-<div id="header" align="left">
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/kanokpit/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-    </a>
-    <a href="https://www.youtube.com/channel/UCiDXrIxlrmBUIerxerOCgMA" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" />
-    </a>
-  </div>
-</div>
 
 ### Skills
 
@@ -29,6 +19,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanokpit-yowaratch)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="left">
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/kanokpit/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    </a>
+    <a href="https://www.youtube.com/channel/UCiDXrIxlrmBUIerxerOCgMA" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" />
+    </a>
+  </div>
+</p>
 <!--
 Here are some ideas to get you started:
 
