@@ -1,4 +1,4 @@
-# Hi, I'm Kanokpit Yowaratch
+# Hi, I'm Kanokpit Yowaratch <img src="https://komarev.com/ghpvc/?username=kanokpit-yowaratch&style=flat-square&color=blue" alt="Profile counter" />
 <div id="header" align="left">
   <div id="badges">
     <a href="https://www.linkedin.com/in/kanokpit/" target="_blank">
@@ -7,8 +7,6 @@
     <a href="https://www.youtube.com/channel/UCiDXrIxlrmBUIerxerOCgMA" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" />
     </a>
-    <br />
-    <img src="https://komarev.com/ghpvc/?username=kanokpit-yowaratch&style=flat-square&color=blue" alt="Profile counter" />
   </div>
 </div>
 
