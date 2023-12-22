@@ -14,6 +14,10 @@
   </div>
 </div>
 
+---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kanokpit-yowaratch&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!--
 Here are some ideas to get you started:
 
