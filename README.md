@@ -11,7 +11,7 @@
 <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="35" alt="NestJS" /></a>
 <a href="https://expressjs.com/" target="blank"><img src="./public/expressjs.svg" width="36" alt="Express" />
 </a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="./public/angular.png" width="36" alt="Angular" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="./public/angular.svg" width="36" alt="Angular" /></a>
 <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"><img src="./public/jasmine.svg" width="36" alt="Jasmine" /></a>
 <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"><img src="./public/karma.svg" width="36" alt="Karma" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" alt="PHP" /></a>
