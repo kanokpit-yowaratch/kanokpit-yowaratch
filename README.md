@@ -15,6 +15,7 @@
 <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"><img src="./public/jasmine.svg" width="36" alt="Jasmine" /></a>
 <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"><img src="./public/karma.svg" width="36" alt="Karma" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" alt="PHP" /></a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" width="36" alt="Go" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" alt="MySQL" /></a>
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="./public/prisma.svg" width="36" alt="Prisma" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="./public/docker.svg" width="36" alt="Docker" /></a>
