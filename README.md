@@ -3,15 +3,9 @@
 ### Skills
 
 <p>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration:none;">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" alt="JavaScript" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="35" alt="TypeScript" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" alt="React" />
-    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" alt="JavaScript" /></a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="35" alt="TypeScript" /></a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" alt="React" /></a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
         <img src="./public/next-js.svg" width="35" alt="NextJS" />
     </a>
