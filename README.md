@@ -20,7 +20,7 @@
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://www.cdnlogo.com/logos/o/94/oracle.svg" width="33" alt="Oracle" /></a>
     <a href="https://www.prisma.io/" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="./public/prisma.svg" width="30" alt="Prisma" /></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="./public/docker.svg" width="40" alt="Docker" /></a>
-    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="./public/kubernetes.svg" width="35" alt="kubernetes" /></a>
+    <!-- <a href="https://kubernetes.io/" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="./public/kubernetes.svg" width="35" alt="kubernetes" /></a> -->
     <a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://www.cdnlogo.com/logos/a/99/aws-ec2.svg" width="28" alt="aws-ec2" /></a>
     <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="./public/digitalocean.svg" width="45" alt="Digitalocean" /></a>
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="./public/ubuntu.svg" width="33" alt="Ubuntu" /></a>
